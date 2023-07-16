@@ -1,21 +1,34 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+# AI Chatbot Prompt Generator
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+![AI Chatbot Prompt Generator](https://your-website.com/assets/images/banner.png)
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+The AI Chatbot Prompt Generator is a web application that provides users with useful prompts for interacting with AI chatbots, such as OpenAI's GPT-3.5-based models like ChatGPT. This tool aims to assist developers and users in generating high-quality prompts to enhance their conversations with AI chatbots.
+
+## Features
+
+- Generate creative and engaging prompts for AI chatbots.
+- Access a wide range of pre-defined prompt templates.
+
+## IN FUTURE
+- Customize and tailor prompts based on specific chatbot use cases.
+- Save and manage your favorite prompts for future use.
+- Get suggestions for using various conversational styles and tones.
+- Share prompts with others through social media or direct links.
+
+## Demo
+
+You can try out the AI Chatbot Prompt Generator by visiting our website: [https://your-website.com](https://your-website.com)
+
+![AI Chatbot Prompt Generator Demo](https://your-website.com/assets/images/demo.gif)
+
+## Getting Started
+
+To run the AI Chatbot Prompt Generator locally, follow these steps:
+
+
+1. Clone the repository:
+    ```shell
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+   npm install
+   npm run dev
