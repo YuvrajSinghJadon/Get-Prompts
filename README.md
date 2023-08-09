@@ -1,34 +1,66 @@
 # AI Chatbot Prompt Generator
 
-![AI Chatbot Prompt Generator](https://your-website.com/assets/images/banner.png)
+![Promptify Screenshot](public/assets/images/ss.png)
 
-The AI Chatbot Prompt Generator is a web application that provides users with useful prompts for interacting with AI chatbots, such as OpenAI's GPT-3.5-based models like ChatGPT. This tool aims to assist developers and users in generating high-quality prompts to enhance their conversations with AI chatbots.
+# Promptify
+
+Welcome to **Promptify**, your platform for generating, storing, and managing creative prompts with ease. Boost your imagination, craft ideas, and explore new horizons through our AI-powered prompt generation. Organize your prompts with tags and search for inspiration whenever you need it.
+
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Support](#support)
+- [Contribute](#contribute)
+- [License](#license)
+
+## About
+
+Promptify is a revolutionary platform designed to empower your creativity. It's built to bridge the gap between innovation and inspiration, providing a seamless experience for generating prompts that spark your creative genius. Whether you're a writer, artist, or creator of any kind, Promptify is your go-to source for fresh ideas.
 
 ## Features
 
-- Generate creative and engaging prompts for AI chatbots.
-- Access a wide range of pre-defined prompt templates.
+- **Create and Save Prompts:** Generate prompts tailored to your needs and save them with relevant tags for easy access later.
+- **Tag-based Search:** Seamlessly search for prompts based on specific tags to find the inspiration you're looking for.
+- **User Accounts:** Create an account to manage your prompts effectively. Keep track of your saved prompts and enhance your creative journey.
 
-## IN FUTURE
-- Customize and tailor prompts based on specific chatbot use cases.
-- Save and manage your favorite prompts for future use.
-- Get suggestions for using various conversational styles and tones.
-- Share prompts with others through social media or direct links.
+## Technologies Used
 
-## Demo
-
-You can try out the AI Chatbot Prompt Generator by visiting our website: [https://your-website.com](https://your-website.com)
-
-![AI Chatbot Prompt Generator Demo](https://your-website.com/assets/images/demo.gif)
+- **Next.js:** Our website is built using Next.js, a powerful and versatile React framework for server-side rendering and client-side routing.
+- **MongoDB:** We use MongoDB to store and manage prompt data efficiently. Organize and retrieve your prompts effortlessly.
+- **Tailwind CSS:** Styling is powered by Tailwind CSS, providing a customizable and responsive design that enhances the user experience.
+- **Google Authentication:** Securely access your account using Google Authentication, ensuring a smooth and hassle-free login process.
 
 ## Getting Started
 
-To run the AI Chatbot Prompt Generator locally, follow these steps:
+1. Visit the [Promptify Website](https://get-prompts-three.vercel.app/) to explore and experience creative prompt generation.
+2. **Sign Up:** Create an account using Google Authentication.
+3. **Create Prompts:** Generate prompts using our AI-powered tool. Add tags to categorize your prompts for easy retrieval.
+4. **Search and Explore:** Utilize tag-based search to discover prompts relevant to your interests.
+5. **Manage Your Account:** Access and manage your saved prompts, personalizing your creative experience.
 
+## Usage
 
 1. Clone the repository:
-    ```shell
+   ```
    git clone https://github.com/your-username/your-repo.git
    cd your-repo
    npm install
    npm run dev
+   ```
+   
+## Support
+
+If you encounter any issues or have questions, please reach out to me at my [email](mailto:yuvrajjadon@gmail.com).
+
+## Contribute
+
+We welcome contributions to enhance Promptify's features and usability. Feel free to submit pull requests or issues in our [GitHub repository](https://github.com/yourusername/promptify).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
